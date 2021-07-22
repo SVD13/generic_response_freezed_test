@@ -11,7 +11,7 @@ void main(List<String> arguments) {
   };
 
   try {
-    final baseResponse = BaseResponse<dynamic>.fromJson(
+    final baseResponse = BaseResponse.fromJson(
       testJson,
       (json) => TestData.fromJson(json),
     );
