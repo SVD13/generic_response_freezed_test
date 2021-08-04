@@ -1,0 +1,16 @@
+[
+  {
+    "amount": 20.2,
+    "balance": 120.0,
+    "reason": "Щастя, здоров'я",
+    "type": "1"
+  },
+  { "amount": 50, "isSuccessful": true, "type": "2" },
+  {
+    "amount": 20.2,
+    "balance": 120.0,
+    "reason": "Щастя, здоров'я",
+    "type": "1"
+  },
+  { "amount": 50, "isSuccessful": true, "type": "2" }
+]
